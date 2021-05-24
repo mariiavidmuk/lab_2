@@ -1,4 +1,4 @@
-language: java
+language: python
 # use Java 8
 jdk:
 - oraclejdk8
